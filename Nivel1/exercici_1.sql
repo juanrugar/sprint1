@@ -1,2 +1,0 @@
-describe company;
-describe transaction;
