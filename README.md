@@ -1,2 +1,2 @@
 # sprint1
-Repo para el Sprint 1
+Repo para la entrega del Sprint 1
